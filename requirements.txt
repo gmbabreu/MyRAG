@@ -1,0 +1,14 @@
+networkx 
+spacy
+numpy 
+pandas 
+matplotlib 
+scikit-learn 
+sentence-transformers
+langchain
+langchain_core
+langchain_community
+langchain_ollama
+langchain_experimental
+pdfplumber
+streamlit
